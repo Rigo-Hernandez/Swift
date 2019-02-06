@@ -1,0 +1,41 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "Bulbasaur.arreferenceimage"
+    },
+    {
+      "filename" : "Charmander.arreferenceimage"
+    },
+    {
+      "filename" : "Cyndaquil.arreferenceimage"
+    },
+    {
+      "filename" : "eevee.arreferenceimage"
+    },
+    {
+      "filename" : "Entei.arreferenceimage"
+    },
+    {
+      "filename" : "Espurr.arreferenceimage"
+    },
+    {
+      "filename" : "Machop.arreferenceimage"
+    },
+    {
+      "filename" : "oddish.arreferenceimage"
+    },
+    {
+      "filename" : "Pikachu.arreferenceimage"
+    },
+    {
+      "filename" : "Squirtle.arreferenceimage"
+    },
+    {
+      "filename" : "Torchic.arreferenceimage"
+    }
+  ]
+}
